@@ -612,3 +612,7 @@ body {
 .contacto img:hover {
   filter: hue-rotate(50deg);
 }
+.cv{
+  height: 7rem;
+  width: 7rem;
+}
